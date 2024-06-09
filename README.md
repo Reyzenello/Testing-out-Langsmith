@@ -6,7 +6,7 @@ pip install fastapi uvicorn langchain-openai requests
 
 Steps to perform before to run the testing-out-langsmith.py
 - Change the field, api_key with the one of OpenAI
-- run the langchain server "python langgraph-server-configuration.py" (first), add another terminal and run the "python testing-out-langsmith.py"
+- run the langchain server "python langsmith-server-configuration.py" (first), add another terminal and run the "python testing-out-langsmith.py"
 
   
 Here are the result:
